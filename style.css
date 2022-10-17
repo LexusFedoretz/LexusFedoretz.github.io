@@ -38,7 +38,12 @@ body{
 	margin:0;
 }
 
-
+.promo_info{
+	height: 700px;	
+	background: url(portal_2.jpg);
+	background-size: cover;
+}
+}
 
 
 
